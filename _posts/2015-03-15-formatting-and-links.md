@@ -5,6 +5,7 @@ date: 2025-01-23 12:00:00
 description: This is a template blog post - you can use this as a starting point for your own posts
 tags: template
 categories: sample-posts
+published: false
 ---
 
 This is a template blog post that you can use as a starting point for creating your own blog posts.

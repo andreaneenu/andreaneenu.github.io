@@ -6,7 +6,7 @@
     "email": "andreaneenu@gmail.com",
     "phone": "+81 080 8649 5164",
     "url": "https://andreaneenu.github.io",
-    "summary": "Data Scientist with expertise in LLM applications, machine learning, and computational physics. B.Tech in Engineering Physics from IIT Delhi.",
+    "summary": "Data Scientist with experience in LLM applications, machine learning, and computational physics. B.Tech in Engineering Physics from IIT Delhi.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -37,8 +37,8 @@
       "name": "Futures First",
       "position": "Quant Analyst Intern",
       "url": "",
-      "startDate": "2023-05-01",
-      "endDate": "2023-07-01",
+      "startDate": "2023-05-15",
+      "endDate": "2023-07-15",
       "summary": "Analyzed macroeconomic data and implemented interest rate models for trading strategies.",
       "highlights": [
         "Analyzed 40+ years of macroeconomic data for the US, UK, and Eurozone to identify market trends",
@@ -69,22 +69,22 @@
   ],
   "awards": [
     {
-      "title": "JEE Advanced 2020: All India Rank 4381",
-      "date": "2020-01-01",
+      "title": "JEE Advanced 2020",
+      "date": "2020",
       "awarder": "IIT",
       "url": "",
-      "summary": "Top 3% of 150,000+ candidates"
+      "summary": "Secured All India Rank 4381, top 3% of 150,000+ candidates"
     },
     {
-      "title": "COMEDK 2020: Rank 130",
-      "date": "2020-01-01",
+      "title": "COMEDK 2020",
+      "date": "2020",
       "awarder": "COMEDK",
       "url": "",
-      "summary": "Out of 70,000+ candidates"
+      "summary": "Secured All India Rank 130, top 2% of 70,000+ candidates"
     },
     {
       "title": "AISSCE Merit Award 2020",
-      "date": "2020-01-01",
+      "date": "2020",
       "awarder": "CBSE",
       "url": "",
       "summary": "Top 0.1% of 1.2 million candidates in Physics"
@@ -192,8 +192,8 @@
         "Numerical methods (Euler, RK4)",
         "70% reduction in death rates"
       ],
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
+      "startDate": "2024-02-15",
+      "endDate": "2026-03-15",
       "url": "https://github.com/andreaneenu/crowd_evacuation"
     },
     {
@@ -204,8 +204,8 @@
         "PIC approach",
         "10X visualization speedup"
       ],
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
+      "startDate": "2023-08-01",
+      "endDate": "2023-11-23",
       "url": "https://github.com/andreaneenu/Quantum_plasma"
     },
     {
@@ -216,8 +216,8 @@
         "XGBoost optimization",
         "Log loss: 0.362"
       ],
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
+      "startDate": "2023-10-01",
+      "endDate": "2023-11-01",
       "url": ""
     }
   ]
