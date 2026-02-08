@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-crowd-evacuation-simulation",
+        },{id: "post-deep-ml-gpt-2-text-generation",
+        
+          title: "Deep-ML: GPT-2 Text Generation",
+        
+        description: "Building GPT-2 text generation from scratch - understanding transformers, embeddings, and layer normalization",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/deepml-gpt2-text-generation/";
+          
+        },
+      },{id: "projects-crowd-evacuation-simulation",
           title: 'Crowd Evacuation Simulation',
           description: "Agent-based modeling of crowd panic situations using numerical schemes (Euler, RK4).",
           section: "Projects",handler: () => {
