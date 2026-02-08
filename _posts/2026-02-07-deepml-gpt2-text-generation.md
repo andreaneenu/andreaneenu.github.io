@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deep-ML: GPT-2 Text Generation"
-date: 2026-02-08 12:44:21
+date: 2026-02-07 12:44:21
 description: Building GPT-2 text generation from scratch - understanding transformers, embeddings, and layer normalization
 tags: deep-ml machine-learning gpt2 transformers nlp deep-learning text-generation language-models
 categories: deep-ml-journey
